@@ -1,7 +1,7 @@
 # MOLOX-Instagram-Hacking-Tool
 <b>[Warning!]</b> This tool is only for educational purposes. So DO NOT use it to harm anyone.
 
-<h2>If you are using windows, then change the 'clear' into 'cls' in os.system('clear') in line No: 15</h2>
+<h2>If you are using windows, then change the 'clear' into 'cls' in os.system('clear') in line No: 15. Or just can use the exe on windows.</h2>
 
 <h3>Steps.</h3>
 
