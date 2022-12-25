@@ -3,6 +3,8 @@
 
 <h2>If you are using windows, then change the 'clear' into 'cls' in os.system('clear') in line No: 15. Or just can use the exe on windows.</h2>
 
+<img src="https://github.com/chenurawinrada/MOLOX-Instagram-Hacking-Tool/blob/main/molox.png">
+
 <h3>Steps.</h3>
 
 1 Enter the account name or username or mailaddr as the target.<br>
